@@ -1,8 +1,9 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="no">
 
     <head>
         <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <title>Juleøl Dashboard</title>
         <link rel="stylesheet" href="style.css" />
     </head>
@@ -13,14 +14,18 @@
             <div class="content">
                 <details>
                     <summary><strong>Hva er Juleøltesten?</strong></summary>
-                    Juleøltesten er en årlig og tradisjonsrik hendelse blant gode venner.
-                    Det startet så smått i 2012 da vi var studenter, og så har vi bare holdt på tradisjonen.
-                    Det har vært flere ulike deltakere i panelet, men består fortsatt av en kjerne på tre personer.
-                    <br><br>
-                    Målet med Juleøltesten er å teste ulike juleøl som stort sett sogner til regionen vår (Sørlandet).
-                    I tillegg er vi opptatt av at utvalget stammer fra både daglivarebutikk og Vinmonopolet. De som ser
-                    litt nøye på resultatene, ser at det også er noen slag fra andre deler av landet. Det er fordi vi
-                    liker å ta med "de store". Ingen god grunn til hvorfor, det bare er sånn.
+                    <p>
+                        Juleøltesten er en årlig og tradisjonsrik hendelse blant gode venner.
+                        Det startet så smått i 2012 da vi var studenter, og så har vi bare holdt på tradisjonen.
+                        Det har vært flere ulike deltakere i panelet, men består fortsatt av en kjerne på tre personer.
+                        <br><br>
+                        Målet med Juleøltesten er å teste ulike juleøl som stort sett sogner til regionen vår
+                        (Sørlandet).
+                        I tillegg er vi opptatt av at utvalget stammer fra både daglivarebutikk og Vinmonopolet. De som
+                        ser
+                        litt nøye på resultatene, ser at det også er noen slag fra andre deler av landet. Det er fordi
+                        vi
+                        liker å ta med "de store". Ingen god grunn til hvorfor, det bare er sånn.
                 </details>
                 <details>
                     <summary><strong>Slik tester vi</strong></summary>
@@ -39,24 +44,27 @@
                     annet pepperkaker, mokkabønner og Delfiakake.
 
                 </details>
-
-
+            </div>
         </header>
-        <div class="filters">
-            <select id="yearFilter"></select>
-            <select id="typeFilter">
-                <option value="">Alle typer</option>
-                <option value="Butikk">Butikk</option>
-                <option value="Vinmonopolet">Vinmonopolet</option>
-                <option value="Hjemmelaget">Hjemmelaget</option>
-            </select>
-            <input type="text" id="searchInput" placeholder="Søk etter øl..." />
-        </div>
-        <section>
-            <canvas id="scoreChart"></canvas>
-        </section>
 
-        <section id="table-container"></section>
+        <main>
+            <div class="filters">
+                <select id="yearFilter"></select>
+                <select id="typeFilter">
+                    <option value="">Alle typer</option>
+                    <option value="Butikk">Butikk</option>
+                    <option value="Vinmonopolet">Vinmonopolet</option>
+                    <option value="Hjemmelaget">Hjemmelaget</option>
+                </select>
+                <input type="text" id="searchInput" placeholder="Søk etter øl..." />
+            </div>
+
+            <section>
+                <canvas id="scoreChart"></canvas>
+            </section>
+
+            <section id="table-container"></section>
+        </main>
 
         <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
         <script src="script.js"></script>

@@ -42,7 +42,7 @@ function renderChart(data) {
   const scores = top.map(b => b.Score);
 
   const ctx = document.getElementById('scoreChart').getContext('2d');
-  if(chart) chart.destroy();
+  if (chart) chart.destroy();
   chart = new Chart(ctx, {
     type: 'bar',
     data: {
