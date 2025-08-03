@@ -16,7 +16,8 @@ header {
     margin-top: 1em;
 }
 
-.filters select, .filters input {
+.filters select,
+.filters input {
     padding: 0.5em;
 }
 

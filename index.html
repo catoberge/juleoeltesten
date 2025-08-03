@@ -9,19 +9,49 @@
 
     <body>
         <header>
-            <h1>Juleøl Dashboard</h1>
-            <div class="filters">
-                <select id="yearFilter"></select>
-                <select id="typeFilter">
-                    <option value="">Alle typer</option>
-                    <option value="Butikk">Butikk</option>
-                    <option value="Vinmonopolet">Vinmonopolet</option>
-                    <option value="Hjemmelaget">Hjemmelaget</option>
-                </select>
-                <input type="text" id="searchInput" placeholder="Søk etter øl..." />
-            </div>
-        </header>
+            <h1>Juleøltesten</h1>
+            <div class="content">
+                <details>
+                    <summary><strong>Hva er Juleøltesten?</strong></summary>
+                    Juleøltesten er en årlig og tradisjonsrik hendelse blant gode venner.
+                    Det startet så smått i 2012 da vi var studenter, og så har vi bare holdt på tradisjonen.
+                    Det har vært flere ulike deltakere i panelet, men består fortsatt av en kjerne på tre personer.
+                    <br><br>
+                    Målet med Juleøltesten er å teste ulike juleøl som stort sett sogner til regionen vår (Sørlandet).
+                    I tillegg er vi opptatt av at utvalget stammer fra både daglivarebutikk og Vinmonopolet. De som ser
+                    litt nøye på resultatene, ser at det også er noen slag fra andre deler av landet. Det er fordi vi
+                    liker å ta med "de store". Ingen god grunn til hvorfor, det bare er sånn.
+                </details>
+                <details>
+                    <summary><strong>Slik tester vi</strong></summary>
+                    <p></p>
+                    Juleøltesten er inspirert av hvordan Radioresepsjonen vurderte sine ulike tester i sin tid.
+                    <br><br>
+                    Det er alltid blindtest, bortsett fra den ene av oss som må helle til de andre. Helletjenesten går
+                    på rundgang. Hver deltaker gir ølet en score mellom 0 og 100. Totalsummen deles deretter på antall
+                    deltakere. Dette blir da scoren på det respektive juleølet. Alt blir registert i et Excel-dokument
+                    og lagret for ytterligere analyse og fremtidig historikk.
+                    <br><br>
+                    Juleøltesten har vært mye prøving og feiling. Noen år har vært veldig mye tyngre enn andre.
+                    Vi har derfor kommet til konklusjonen at et rimelig perfekt antall deltakere er 6-7 stykker og
+                    antall slag juleøl bør ligge mellom 15-17. De senere årene har vi også beveget oss i en mer
+                    progressiv retning, med full julemiddag som oppstart og med test av smaksforsterkere i form av blant
+                    annet pepperkaker, mokkabønner og Delfiakake.
 
+                </details>
+
+
+        </header>
+        <div class="filters">
+            <select id="yearFilter"></select>
+            <select id="typeFilter">
+                <option value="">Alle typer</option>
+                <option value="Butikk">Butikk</option>
+                <option value="Vinmonopolet">Vinmonopolet</option>
+                <option value="Hjemmelaget">Hjemmelaget</option>
+            </select>
+            <input type="text" id="searchInput" placeholder="Søk etter øl..." />
+        </div>
         <section>
             <canvas id="scoreChart"></canvas>
         </section>
