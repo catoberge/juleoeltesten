@@ -12,7 +12,7 @@ fetch('sorted_data.json')
 function initFilters() {
   const years = [...new Set(beers.map(b => b.Year))].sort();
   const yearSelect = document.getElementById('yearFilter');
-  yearSelect.innerHTML = `<option value="">All Years</option>` +
+  yearSelect.innerHTML = `<option value="">Alle år</option>` +
     years.map(y => `<option value="${y}">${y}</option>`).join('');
 
   document.getElementById('yearFilter').addEventListener('change', updateDashboard);
