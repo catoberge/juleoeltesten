@@ -61,16 +61,16 @@ main {
 
 /* Chart & Table */
 section canvas {
-  width: 100% !important;
-  height: auto !important;
-  max-width: 100%;
-  display: block;
+    width: 100% !important;
+    height: auto !important;
+    max-width: 100%;
+    display: block;
 }
 
 section {
-  width: 100%;
-  max-width: 900px;
-  margin: 0 auto;
+    width: 100%;
+    max-width: 900px;
+    margin: 0 auto;
 }
 
 #table-container {
@@ -93,6 +93,36 @@ table td {
     text-align: left;
     word-break: break-word;
 }
+
+/* Sortable column headers */
+th[data-key] {
+    position: relative;
+    cursor: pointer;
+}
+
+th[data-key]::after {
+    content: '⇅';
+    /* Sort indicator */
+    font-size: 0.75rem;
+    margin-left: 6px;
+    color: #888;
+    position: absolute;
+    right: 8px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+/* Active sort column with direction */
+th.sort-asc::after {
+    content: '▲';
+    color: #000;
+}
+
+th.sort-desc::after {
+    content: '▼';
+    color: #000;
+}
+
 
 /* Responsive tweaks */
 @media (max-width: 600px) {

@@ -82,23 +82,84 @@ function renderChart(data) {
 // Create an HTML table of the filtered beers
 function renderTable(data) {
   const container = document.getElementById('table-container');
+
+  // Store current data in case we want to sort it
+  container.sortedData = data;
+
   container.innerHTML = `
-    <table>
+    <table id="beer-table">
       <thead>
         <tr>
-          <th>År</th><th>Navn</th><th>Type</th><th>Score</th><th>Rank</th>
+          <th data-key="År">År</th>
+          <th data-key="Navn">Navn</th>
+          <th data-key="Type">Type</th>
+          <th data-key="Score">Score</th>
+          <th data-key="Rank">Rank</th>
         </tr>
       </thead>
       <tbody>
-        ${data.map(b => `
-          <tr>
-            <td>${b.År}</td>
-            <td>${b.Navn}</td>
-            <td>${b.Type}</td>
-            <td>${b.Score}</td>
-            <td>${b.Rank}</td>
-          </tr>`).join('')}
+        ${generateTableRows(data)}
       </tbody>
     </table>
   `;
+
+  // Add sorting listeners
+  document.querySelectorAll('#beer-table th').forEach(th => {
+    th.style.cursor = 'pointer';
+    th.addEventListener('click', () => sortTable(th.dataset.key, th));
+  });
 }
+
+function generateTableRows(data) {
+  return data.map(b => `
+    <tr>
+      <td>${b.År}</td>
+      <td>${b.Navn}</td>
+      <td>${b.Type}</td>
+      <td>${b.Score}</td>
+      <td>${b.Rank}</td>
+    </tr>
+  `).join('');
+}
+
+let currentSortKey = null;
+let currentSortAsc = true;
+
+function sortTable(key, th) {
+  const container = document.getElementById('table-container');
+  let data = [...container.sortedData];
+
+  // Toggle sort direction
+  if (key === currentSortKey) {
+    currentSortAsc = !currentSortAsc;
+  } else {
+    currentSortKey = key;
+    currentSortAsc = true;
+  }
+
+  // Sort data
+  data.sort((a, b) => {
+    const valA = a[key];
+    const valB = b[key];
+
+    if (typeof valA === 'number') {
+      return currentSortAsc ? valA - valB : valB - valA;
+    }
+
+    return currentSortAsc
+      ? String(valA).localeCompare(String(valB))
+      : String(valB).localeCompare(String(valA));
+  });
+
+  // Re-render table body
+  document.querySelector('#beer-table tbody').innerHTML = generateTableRows(data);
+
+  // Reset all sort indicators
+  document.querySelectorAll('#beer-table th').forEach(header => {
+    header.classList.remove('sort-asc', 'sort-desc');
+  });
+
+  // Apply current sort indicator
+  th.classList.add(currentSortAsc ? 'sort-asc' : 'sort-desc');
+}
+
