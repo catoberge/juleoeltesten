@@ -11,19 +11,19 @@ fetch('sorted_data.json')
 
 function initFilters() {
   const years = [...new Set(beers.map(b => b.Year))].sort();
-  const yearSelect = document.getElementById('yearFilter');
+  const yearSelect = document.getElementById('year-filter');
   yearSelect.innerHTML = `<option value="">Alle år</option>` +
     years.map(y => `<option value="${y}">${y}</option>`).join('');
 
-  document.getElementById('yearFilter').addEventListener('change', updateDashboard);
-  document.getElementById('typeFilter').addEventListener('change', updateDashboard);
-  document.getElementById('searchInput').addEventListener('input', updateDashboard);
+  document.getElementById('year-filter').addEventListener('change', updateDashboard);
+  document.getElementById('type-filter').addEventListener('change', updateDashboard);
+  document.getElementById('search-input').addEventListener('input', updateDashboard);
 }
 
 function updateDashboard() {
-  const year = document.getElementById('yearFilter').value;
-  const type = document.getElementById('typeFilter').value;
-  const search = document.getElementById('searchInput').value.toLowerCase();
+  const year = document.getElementById('year-filter').value;
+  const type = document.getElementById('type-filter').value;
+  const search = document.getElementById('search-input').value.toLowerCase();
 
   const filtered = beers.filter(b => {
     return (!year || b.Year == year) &&
@@ -41,7 +41,7 @@ function renderChart(data) {
   const labels = top.map(b => `${b.Name} (${b.Year})`);
   const scores = top.map(b => b.Score);
 
-  const ctx = document.getElementById('scoreChart').getContext('2d');
+  const ctx = document.getElementById('score-chart').getContext('2d');
   if (chart) chart.destroy();
   chart = new Chart(ctx, {
     type: 'bar',
