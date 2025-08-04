@@ -4,847 +4,741 @@
         "Name": "Ringnes Julebokk",
         "Type": "Butikk",
         "Score": 34.33,
-        "Rank": 11,
-        "Comment": "Essensøl"
+        "Rank": 11
     },
     {
         "Year": 2019,
         "Name": "Qvart Ølkompani Julekvelden På Kjerringa",
         "Type": "Vinmonopolet",
         "Score": 35,
-        "Rank": 9,
-        "Comment": "Barnebrusskum"
+        "Rank": 9
     },
     {
         "Year": 2019,
         "Name": "St. Halvards reservejul",
         "Type": "Hjemmelaget",
         "Score": 29,
-        "Rank": 12,
-        "Comment": "Dauere enn kondisen til pappa"
+        "Rank": 12
     },
     {
         "Year": 2019,
         "Name": "Haandbryggeriet Nissemor Juleøl",
         "Type": "Vinmonopolet",
         "Score": 63,
-        "Rank": 3,
-        "Comment": "Et okay forsøk. Pimpa Toro-øl"
+        "Rank": 3
     },
     {
         "Year": 2019,
         "Name": "Kjerlingland Brygghus St.Niklas Juleøl",
         "Type": "Vinmonopolet",
         "Score": 50,
-        "Rank": 6,
-        "Comment": "Ikke så rund som forrige. Trekk av skarphet, men litt mer smakfull enn tre første"
+        "Rank": 6
     },
     {
         "Year": 2019,
         "Name": "1839 Juleøl",
         "Type": "Butikk",
         "Score": 35,
-        "Rank": 9,
-        "Comment": "En kan godt ta mokkabønnetesten, men hva er vitsen?"
+        "Rank": 9
     },
     {
         "Year": 2019,
         "Name": "Nøgne Ø Rød Jul Imperial Red Ale",
         "Type": "Vinmonopolet",
         "Score": 53,
-        "Rank": 5,
-        "Comment": "Veldig godt øl, men slags jul i Syden. Raspa ned noen mandarintrær. Her er det greit at score spriker."
+        "Rank": 5
     },
     {
         "Year": 2019,
         "Name": "CB Juleøl",
         "Type": "Butikk",
         "Score": 50,
-        "Rank": 6,
-        "Comment": "Fucking close to water. Den gikk rett ned og det skal ikke en juleøl gjøre."
+        "Rank": 6
     },
     {
         "Year": 2019,
         "Name": "Tuborg Juleøl 2018",
         "Type": "Butikk",
         "Score": 22.33,
-        "Rank": 13,
-        "Comment": "Åååååååååh! Så tynt! Skjerpings! Den var så vårlig at jeg fikk pollenallergi."
+        "Rank": 13
     },
     {
         "Year": 2019,
         "Name": "Bygland Bryggeri Gofa Røykstaut",
         "Type": "Vinmonopolet",
         "Score": 62.66,
-        "Rank": 4,
-        "Comment": "Svært sprikende. Dommer 1: God lukt og smak. Egentlig ikke lyst til mokkabønnetest fordi smaken var så god. Smaker øl. Dette var en vinner for Strømme. Perfekt til pepperkake. Dommer 2: Flatt som faen Lurekaffe. Gir meg ikke noen julestemning overhodet."
+        "Rank": 4
     },
     {
         "Year": 2019,
         "Name": "Hansa Juleale",
         "Type": "Vinmonopolet",
         "Score": 93,
-        "Rank": 1,
-        "Comment": "Ikke noe problem å \"go to town\" på det her."
+        "Rank": 1
     },
     {
         "Year": 2019,
         "Name": "Nøgne Ø God Jul Christmas Ale",
         "Type": "Vinmonopolet",
         "Score": 93,
-        "Rank": 1,
-        "Comment": "Den er jo bekmørk. Det er som å se på slagg. Men smaken…..!"
+        "Rank": 1
     },
     {
         "Year": 2019,
         "Name": "Hunsfos Julewit",
         "Type": "Vinmonopolet",
         "Score": 18.66,
-        "Rank": 14,
-        "Comment": "Bare dritt. Du har drukket opp ja, det var prisverdig."
+        "Rank": 14
     },
     {
         "Year": 2019,
         "Name": "Qvart Ølkompani Rudolfs Røde",
         "Type": "Vinmonopolet",
         "Score": 38.66,
-        "Rank": 8,
-        "Comment": "Nøgne Ø leverer hver gang. Heier litt på Qvart, men jeg heier jo på Start også. Men det blir jo faen ikke noe av det."
+        "Rank": 8
     },
     {
         "Year": 2020,
         "Name": "Hansa Julebrygg",
         "Type": "Butikk",
         "Score": 24.17,
-        "Rank": 16,
-        "Comment": "Hvis Fun Light skulle laget juleøl. Et Sarita-glass med juleøl."
+        "Rank": 16
     },
     {
         "Year": 2020,
         "Name": "Aass Vellagret Juleøl",
         "Type": "Vinmonopolet",
         "Score": 71.83,
-        "Rank": 4,
-        "Comment": "Fikk litt lakrissnøre-feeling. God følelse å ha igjen."
+        "Rank": 4
     },
     {
         "Year": 2020,
         "Name": "Ringnes Julebokk",
         "Type": "Vinmonopolet",
         "Score": 56.17,
-        "Rank": 8,
-        "Comment": "Litt som Varoddbrua. Bare start og slutt. Ingen høydepunkt. Kan det være en krydderluring?"
+        "Rank": 8
     },
     {
         "Year": 2020,
         "Name": "CB Juleøl",
         "Type": "Vinmonopolet",
         "Score": 35.33,
-        "Rank": 12,
-        "Comment": "Det smaker gjær. Gjær er ikke en julesmak."
+        "Rank": 12
     },
     {
         "Year": 2020,
         "Name": "St.Niklas Juleøl",
         "Type": "Vinmonopolet",
         "Score": 27.17,
-        "Rank": 14,
-        "Comment": "Lukta den dårlige tomtebryggen som mamma lagde før. Nissemors sure underliv! Denne går jeg bare og pisser ut med en gang."
+        "Rank": 14
     },
     {
         "Year": 2020,
         "Name": "Lindesnes Rock`n`Roll Juleøl",
         "Type": "Butikk",
         "Score": 37.67,
-        "Rank": 11,
-        "Comment": "Drikkbar! Med andre ord ikke juleøl."
+        "Rank": 11
     },
     {
         "Year": 2020,
         "Name": "Nøgne Ø Julequad 2020",
         "Type": "Vinmonopolet",
         "Score": 31.33,
-        "Rank": 12,
-        "Comment": "Glemt kaffe i Statoil-koppen!"
+        "Rank": 12
     },
     {
         "Year": 2020,
         "Name": "Nøgne Ø Hvit Jul",
         "Type": "Butikk",
         "Score": 14.83,
-        "Rank": 17,
-        "Comment": "Jeg vedder 100kr på at dommer 1 kommer til å poengtere at dette er en juleøltest. Dette er jul på stranda i 25 grader. Er det ikke litt nøkkelost over det? Dette er safta av surkål."
+        "Rank": 17
     },
     {
         "Year": 2020,
         "Name": "Mack God Jul 2020",
         "Type": "Vinmonopolet",
         "Score": 62.67,
-        "Rank": 6,
-        "Comment": "Helt grei juleøl egentlig. God med pepperkaker. Men er ikke mokkabønneverdig."
+        "Rank": 6
     },
     {
         "Year": 2020,
         "Name": "CB Juleøl (butikk)",
         "Type": "Butikk",
         "Score": 62.17,
-        "Rank": 7,
-        "Comment": "Tok styrtetesten. Det var en sånn type øl. Det var ikke noe vits å dvele med denne. Tar en pepperkake etterpå. En perfekt mellomøl."
+        "Rank": 7
     },
     {
         "Year": 2020,
         "Name": "7 Fjell Lys Juleøl",
         "Type": "Butikk",
         "Score": 25.33,
-        "Rank": 15,
-        "Comment": "\"Vi glemte å lage juleøl. Vi bare laget etiketten\"."
+        "Rank": 15
     },
     {
         "Year": 2020,
         "Name": "De Tvende Winterwald Julebock (joker fra Cato)",
         "Type": "Vinmonopolet",
         "Score": 81.17,
-        "Rank": 3,
-        "Comment": "*Dommer 3 slo riskrem-knappen!* Det er som å ha Skavlan hos Lindmo."
+        "Rank": 3
     },
     {
         "Year": 2020,
         "Name": "Kinn Solsnu",
         "Type": "Vinmonopolet",
         "Score": 46.17,
-        "Rank": 9,
-        "Comment": "Det er faen så lyst altså! Det er nesten samme farge som håret til Trump!"
+        "Rank": 9
     },
     {
         "Year": 2020,
         "Name": "Haandbryggeriet Nissemor",
         "Type": "Vinmonopolet",
         "Score": 86,
-        "Rank": 1,
-        "Comment": "Det er blødd-i-munnen-smak!Neseblod-ettersmak. Men jeg syns faktisk disse blodgreiene var ganske godt."
+        "Rank": 1
     },
     {
         "Year": 2020,
         "Name": "Hunsfos Juleøl",
         "Type": "Butikk",
         "Score": 66.5,
-        "Rank": 5,
-        "Comment": "Vi skal til Vennesla."
+        "Rank": 5
     },
     {
         "Year": 2020,
         "Name": "Hunsfos Direktørens Jul",
         "Type": "Vinmonopolet",
         "Score": 84.33,
-        "Rank": 2,
-        "Comment": "Denne hadde jo vært helt nyyyydelig med mokkabønner (red. anm: vi var tomme). Det er jo en porter med et touch av jul. Den er så tjukk at den legger seg rundt kinnet som Giulianis hårfarge."
+        "Rank": 2
     },
     {
         "Year": 2020,
         "Name": "Hansa Juleøl",
         "Type": "Vinmonopolet",
         "Score": 46.67,
-        "Rank": 9,
-        "Comment": "Det er som en kjendis på et ferdigprodukt. Som Arne Brimi på en Fjordland-pakke."
+        "Rank": 9
     },
     {
         "Year": 2021,
         "Name": "Kinn Solsnu",
         "Type": "Vinmonopolet",
         "Score": 62.2,
-        "Rank": 9,
-        "Comment": "Minner meg litt om det jeg brygger hjemme og \"er det noe galt?\""
+        "Rank": 9
     },
     {
         "Year": 2021,
         "Name": "Tuborg Juleøl",
         "Type": "Butikk",
         "Score": 23,
-        "Rank": 17,
-        "Comment": "Dette ser ut som dagen derpå-urin."
+        "Rank": 17
     },
     {
         "Year": 2021,
         "Name": "Mack God Jul",
         "Type": "Butikk",
         "Score": 29.8,
-        "Rank": 14,
-        "Comment": "Jeg tror vi er på polet. Vent litt, nå er jeg ikke så sikker lenger. Den blir dårligere og dårligere. Kanskje dette er krumkake. Jeg ble ikke noe glad av dette. Nå er jeg på vei ned i den eksistensielle krisen igjen."
+        "Rank": 14
     },
     {
         "Year": 2021,
         "Name": "Hansa Juleøl",
         "Type": "Butikk",
         "Score": 14,
-        "Rank": 18,
-        "Comment": "Det kunne vært det vannglasset som har stått over natta. Det kan jo alltids være vondere, det smakte bare ikke noe."
+        "Rank": 18
     },
     {
         "Year": 2021,
         "Name": "CB Juleøl",
         "Type": "Butikk",
         "Score": 26.4,
-        "Rank": 15,
-        "Comment": "Jeg ville ikke kastet bort en mokkabønne på dette. Det holdt med en marsipan."
+        "Rank": 15
     },
     {
         "Year": 2021,
         "Name": "Nøgne Ø Ekstra Jul",
         "Type": "Vinmonopolet",
         "Score": 66.6,
-        "Rank": 8,
-        "Comment": "Dette er booster-dosen! Det er julenissens magesyre!"
+        "Rank": 8
     },
     {
         "Year": 2021,
         "Name": "Lindesnes Rock`n Roll",
         "Type": "Butikk",
         "Score": 79,
-        "Rank": 6,
-        "Comment": "Stødig! Ordentlig value for money."
+        "Rank": 6
     },
     {
         "Year": 2021,
         "Name": "Hansa Julebrygg",
         "Type": "Butikk",
         "Score": 13.4,
-        "Rank": 19,
-        "Comment": "Dette er et sånn fuktig rom der du setter inn en luktpinne."
+        "Rank": 19
     },
     {
         "Year": 2021,
         "Name": "Amber Christmas",
         "Type": "Hjemmelaget",
         "Score": 51.2,
-        "Rank": 12,
-        "Comment": "Er det lovende farge eller er det tarmskyll? I helvete, var denne god eller vond? Jeg tar ikke stilling til om den er god eller vond. Det var bare ikke min type."
+        "Rank": 12
     },
     {
         "Year": 2021,
         "Name": "Hansa Juleøl",
         "Type": "Vinmonopolet",
         "Score": 79.4,
-        "Rank": 5,
-        "Comment": "Denne liker alle. De har laget en hit liksom. Dette er en god poplåt. Noe som holder seg lenge på VG-lista."
+        "Rank": 5
     },
     {
         "Year": 2021,
         "Name": "CB Juleøl",
         "Type": "Vinmonopolet",
         "Score": 62.2,
-        "Rank": 9,
-        "Comment": "Dersom det er CB, så er det ingen som trenger å henge med hodet. Det er helt greit."
+        "Rank": 9
     },
     {
         "Year": 2021,
         "Name": "Sagittal ImperIal Brown Ale",
         "Type": "Vinmonopolet",
         "Score": 60.2,
-        "Rank": 11,
-        "Comment": "Dette er den som passer best til mokkabønner til nå (alle var enige i dette). Jeg tenker den er god, men hvor godt treffer den julesenteret i hjernen?"
+        "Rank": 11
     },
     {
         "Year": 2021,
         "Name": "Bygland Bryggeri Jolebassen Joleøl",
         "Type": "Butikk",
         "Score": 23.2,
-        "Rank": 16,
-        "Comment": "Å fy faen! Dette var en geitbokk. Noen bør anmeldes om dette er fra polet. Om dette hadde vært pinnekjøtt, så hadde det vært pinnegrøt."
+        "Rank": 16
     },
     {
         "Year": 2021,
         "Name": "Ringnes Julebokk",
         "Type": "Vinmonopolet",
         "Score": 91.8,
-        "Rank": 2,
-        "Comment": "Den satt! Det rasler godt i drøvelen. Det er svart gull dette. Som ho sa! Rund og kremete. Ikke så krevende."
+        "Rank": 2
     },
     {
         "Year": 2021,
         "Name": "Mack Tradisjonell Julebokk",
         "Type": "Vinmonopolet",
         "Score": 93.2,
-        "Rank": 1,
-        "Comment": "Ateisten sier: \"Gud bedre denne var god!\". Jeg er enig i at denne var litt lettere, men det var som en bølge inn i munnen."
+        "Rank": 1
     },
     {
         "Year": 2021,
         "Name": "Kinn Julefred",
         "Type": "Vinmonopolet",
         "Score": 84.4,
-        "Rank": 4,
-        "Comment": "Red. anm: Det ble bare prat om sexologstudiumet på UiA. Alle skal med!"
+        "Rank": 4
     },
     {
         "Year": 2021,
         "Name": "Nøgne Ø God Jul",
         "Type": "Vinmonopolet",
         "Score": 89,
-        "Rank": 3,
-        "Comment": "Du ser ikke gjennom den! Ikke mot lyset engang!"
+        "Rank": 3
     },
     {
         "Year": 2021,
         "Name": "Haandbryggeriet Nissemor",
         "Type": "Vinmonopolet",
         "Score": 75.2,
-        "Rank": 7,
-        "Comment": "Den gikk ut på dato i fjor (kommentar fra dommer som medbragte)."
+        "Rank": 7
     },
     {
         "Year": 2021,
         "Name": "Bygland Bryggeri Rudkallen Joløl",
         "Type": "Vinmonopolet",
         "Score": 42.2,
-        "Rank": 13,
-        "Comment": "Det smaker smaken av panteautomater!"
+        "Rank": 13
     },
     {
         "Year": 2022,
         "Name": "Hansa Juleøl",
         "Type": "Vinmonopolet",
         "Score": 56.43,
-        "Rank": 8,
-        "Comment": "Pål Gordons gøye venninne. På det jevne, men litt mer sprudlende"
+        "Rank": 8
     },
     {
         "Year": 2022,
         "Name": "Ringnes Klassisk Juleøl",
         "Type": "Butikk",
         "Score": 26.57,
-        "Rank": 15,
-        "Comment": "Kjip! Smaker regnvann og mig. Fatølen min var mye mer smakfull og fyldig."
+        "Rank": 15
     },
     {
         "Year": 2022,
         "Name": "Ringnes Julebokk",
         "Type": "Butikk",
         "Score": 82.57,
-        "Rank": 4,
-        "Comment": "Har du faktisk med delfiakake?! Trodde det var kødd."
+        "Rank": 4
     },
     {
         "Year": 2022,
         "Name": "Hunsfos Bryggeri Direktørens Jul",
         "Type": "Vinmonopolet",
         "Score": 89,
-        "Rank": 1,
-        "Comment": "\"Denne føltes nesten for fin til å teste med mokkabøner\". *Tester med mokkabønner*"
+        "Rank": 1
     },
     {
         "Year": 2022,
         "Name": "Nøgne Ø Endelig Jul Gingerbread Christmas Ale",
         "Type": "Butikk",
         "Score": 79.29,
-        "Rank": 5,
-        "Comment": "Studd i kardemomme! Scorer ganske bra i julesammenheng."
+        "Rank": 5
     },
     {
         "Year": 2022,
         "Name": "1839 Juleøl Ekstra Stærk",
         "Type": "Vinmonopolet",
         "Score": 47.29,
-        "Rank": 9,
-        "Comment": "*Rynker på nesa*. Europris-essensøl-hylla - der ingen går."
+        "Rank": 9
     },
     {
         "Year": 2022,
         "Name": "CB Juleøl",
         "Type": "Butikk",
         "Score": 44.14,
-        "Rank": 11,
-        "Comment": "Ååååååh, det er Sørlandets stolthet! Helt smakløst."
+        "Rank": 11
     },
     {
         "Year": 2022,
         "Name": "Bygland Bryggeri Jolegama Joleøl",
         "Type": "Vinmonopolet",
         "Score": 23.29,
-        "Rank": 17,
-        "Comment": "Det lukter magetrøbbel og hjemmebrygg."
+        "Rank": 17
     },
     {
         "Year": 2022,
         "Name": "Haandbryggeriet Nissemor",
         "Type": "Vinmonopolet",
         "Score": 64.29,
-        "Rank": 6,
-        "Comment": "Pål Gordons entusiastiske produsent."
+        "Rank": 6
     },
     {
         "Year": 2022,
         "Name": "Kinn Julefred",
         "Type": "Butikk",
         "Score": 27,
-        "Rank": 14,
-        "Comment": "Øl - nå med vannsmak!"
+        "Rank": 14
     },
     {
         "Year": 2022,
         "Name": "Tuborg Juleøl",
         "Type": "Butikk",
         "Score": 25.43,
-        "Rank": 16,
-        "Comment": "Det smaker jo ingenting jul! Dette er vanlig Tuborg som du har med meteren med shots i Jomfru Anes Gade."
+        "Rank": 16
     },
     {
         "Year": 2022,
         "Name": "Nøgne Ø God Jul Christmas Ale",
         "Type": "Vinmonopolet",
         "Score": 89,
-        "Rank": 1,
-        "Comment": "Når svigermor endelig har lagt seg. Nå skal vi kose oss. Du har lyst til å bli kompis med han som laget denne."
+        "Rank": 1
     },
     {
         "Year": 2022,
         "Name": "CB Juleøl",
         "Type": "Vinmonopolet",
         "Score": 44.71,
-        "Rank": 10,
-        "Comment": "Dersom DETTE er CB Pol, så er det selvsagt produsert i Sarpsborg. Et siste takk og farvel fra den bitre fabrikkarbeideren."
+        "Rank": 10
     },
     {
         "Year": 2022,
         "Name": "Nøgne Ø A Christmas Carol: Ekstra God Jul Sherry Cask edition",
         "Type": "Vinmonopolet",
         "Score": 39.14,
-        "Rank": 13,
-        "Comment": "Noen ganger bør en stanse opp og spørre seg selv - trenger vi gjøre dette?"
+        "Rank": 13
     },
     {
         "Year": 2022,
         "Name": "Hansa Juleøl",
         "Type": "Butikk",
         "Score": 42.14,
-        "Rank": 12,
-        "Comment": "Den umiskjennelige smaken av skiheis på Hovden. Smaker utlada 9-volts batteri."
+        "Rank": 12
     },
     {
         "Year": 2022,
         "Name": "Kinn Julefred",
         "Type": "Vinmonopolet",
         "Score": 58.57,
-        "Rank": 7,
-        "Comment": "Mye bedre enn forrige hjemmebrygg! Men, se SE nå! Dette er typisk hjemmebrygg! Se skummet! Ikke en dritt!"
+        "Rank": 7
     },
     {
         "Year": 2022,
         "Name": "Mack Julebokk",
         "Type": "Vinmonopolet",
         "Score": 84.43,
-        "Rank": 3,
-        "Comment": "Fin foran, fin bak."
+        "Rank": 3
     },
     {
         "Year": 2023,
         "Name": "Ringnes Juleøl",
         "Type": "Butikk",
         "Score": 30,
-        "Rank": 16,
-        "Comment": "Vann med øl fra dispenseren."
+        "Rank": 16
     },
     {
         "Year": 2023,
         "Name": "Hansa 1",
         "Type": "Vinmonopolet",
         "Score": 56.25,
-        "Rank": 5,
-        "Comment": "Litt MILF?"
+        "Rank": 5
     },
     {
         "Year": 2023,
         "Name": "CB",
         "Type": "Vinmonopolet",
         "Score": 46.5,
-        "Rank": 11,
-        "Comment": null
+        "Rank": 11
     },
     {
         "Year": 2023,
         "Name": "Ægir Snøblond",
         "Type": "Butikk",
         "Score": 43,
-        "Rank": 13,
-        "Comment": null
+        "Rank": 13
     },
     {
         "Year": 2023,
         "Name": "Nøgne Ø Rød Jul",
         "Type": "Vinmonopolet",
         "Score": 71,
-        "Rank": 3,
-        "Comment": null
+        "Rank": 3
     },
     {
         "Year": 2023,
         "Name": "7 Fjell Gøy Juleøl",
         "Type": "Butikk",
         "Score": 47.75,
-        "Rank": 10,
-        "Comment": null
+        "Rank": 10
     },
     {
         "Year": 2023,
         "Name": "Ægir Julepott",
         "Type": "Butikk",
         "Score": 11.5,
-        "Rank": 18,
-        "Comment": null
+        "Rank": 18
     },
     {
         "Year": 2023,
         "Name": "Haandbryggeriet Nissemor",
         "Type": "Vinmonopolet",
         "Score": 54,
-        "Rank": 6,
-        "Comment": null
+        "Rank": 6
     },
     {
         "Year": 2023,
         "Name": "Hansa Julebrygg",
         "Type": "Vinmonopolet",
         "Score": 53.75,
-        "Rank": 7,
-        "Comment": null
+        "Rank": 7
     },
     {
         "Year": 2023,
         "Name": "Nøgne Ø God Jul",
         "Type": "Vinmonopolet",
         "Score": 91.25,
-        "Rank": 1,
-        "Comment": null
+        "Rank": 1
     },
     {
         "Year": 2023,
         "Name": "Hansa Juleøl",
         "Type": "Butikk",
         "Score": 45,
-        "Rank": 12,
-        "Comment": null
+        "Rank": 12
     },
     {
         "Year": 2023,
         "Name": "Nøgne Ø Gingerbread",
         "Type": "Butikk",
         "Score": 69,
-        "Rank": 4,
-        "Comment": null
+        "Rank": 4
     },
     {
         "Year": 2023,
         "Name": "1839 Juleøl",
         "Type": "Vinmonopolet",
         "Score": 43,
-        "Rank": 13,
-        "Comment": null
+        "Rank": 13
     },
     {
         "Year": 2023,
         "Name": "Haandbryggeriet Nissefar",
         "Type": "Vinmonopolet",
         "Score": 39.5,
-        "Rank": 15,
-        "Comment": null
+        "Rank": 15
     },
     {
         "Year": 2023,
         "Name": "Dahls Lillebjørn",
         "Type": "Butikk",
         "Score": 18,
-        "Rank": 17,
-        "Comment": null
+        "Rank": 17
     },
     {
         "Year": 2023,
         "Name": "Berentsen Julefnugg",
         "Type": "Vinmonopolet",
         "Score": 48.5,
-        "Rank": 9,
-        "Comment": null
+        "Rank": 9
     },
     {
         "Year": 2023,
         "Name": "Nøgne Ø God Jul",
         "Type": "Vinmonopolet",
         "Score": 77.25,
-        "Rank": 2,
-        "Comment": null
+        "Rank": 2
     },
     {
         "Year": 2023,
         "Name": "CB Juleøl",
         "Type": "Butikk",
         "Score": 51,
-        "Rank": 8,
-        "Comment": null
+        "Rank": 8
     },
     {
         "Year": 2024,
         "Name": "Ringnes Juleøl",
         "Type": "Butikk",
         "Score": 29.4,
-        "Rank": 14,
-        "Comment": "Klar og tydelig. Butikkøl. Denne kan brukes i frikirken med god samvittighet."
+        "Rank": 14
     },
     {
         "Year": 2024,
         "Name": "Hansa Juleøl",
         "Type": "Vinmonopolet",
         "Score": 58.8,
-        "Rank": 8,
-        "Comment": "Den er hakket bedre enn Pål Gordon. Den perfekte juleøl for alkoholikere."
+        "Rank": 8
     },
     {
         "Year": 2024,
         "Name": "Lindesnes Nissenatt",
         "Type": "Butikk",
         "Score": 16.4,
-        "Rank": 17,
-        "Comment": "Dau Cola. Hvis dette er Jolebassen, så er det Jolebassen med vondt i magen."
+        "Rank": 17
     },
     {
         "Year": 2024,
         "Name": "Aass Juleøl Vellagret",
         "Type": "Vinmonopolet",
         "Score": 87,
-        "Rank": 1,
-        "Comment": "Denne var ekte!"
+        "Rank": 1
     },
     {
         "Year": 2024,
         "Name": "Bygland Jolegama Jol",
         "Type": "Vinmonopolet",
         "Score": 7,
-        "Rank": 21,
-        "Comment": "Karen Marie Ellefsen. Gammelt skrog i ny innpakning. Er det Kjerlingland som har gitt helt opp? Konkursboet?"
+        "Rank": 21
     },
     {
         "Year": 2024,
         "Name": "Jacobsen Golden Naked Christmas Ale (joker fra Øivind)",
         "Type": "Vinmonopolet",
         "Score": 12.6,
-        "Rank": 18,
-        "Comment": "Dette var jo skumnisse på ekte! Rett etter: Dette er Sandra Broch på en krakk. Du blir lurt!"
+        "Rank": 18
     },
     {
         "Year": 2024,
         "Name": "Mack God Jul",
         "Type": "Joker fra Håkon",
         "Score": 26.2,
-        "Rank": 16,
-        "Comment": "Håhå! Det var en luremus!"
+        "Rank": 16
     },
     {
         "Year": 2024,
         "Name": "CB Juleøl",
         "Type": "Butikk",
         "Score": 38.4,
-        "Rank": 12,
-        "Comment": "Det er jo disse vi må gjennom for de gode opplevelsene. Dette er CB. Høstvikarene på bryggeriet i Sarpsborg."
+        "Rank": 12
     },
     {
         "Year": 2024,
         "Name": "Kjerlingland St. Niklas",
         "Type": "Vinmonopolet",
         "Score": 75.4,
-        "Rank": 3,
-        "Comment": "Denne tror jeg kunne vært god alene etter pakkene på julaften."
+        "Rank": 3
     },
     {
         "Year": 2024,
         "Name": "Nøgne Ø Rød Jul",
         "Type": "Vinmonopolet",
         "Score": 10.2,
-        "Rank": 20,
-        "Comment": "Det er ikke hvit jul engang! Det er Egypt-jul! Det er Greta Thunberg på demonstrasjon i Kairo! Du kan like gjerne sette på Kygo. Tenk å gi så faen i fargen! Se på den skumklatten! Det er akkurat som i urinaler! Jeg gir 1, for det er faktisk ikke jul."
+        "Rank": 20
     },
     {
         "Year": 2024,
         "Name": "CB (2023 , joker fra Øivind)",
         "Type": "Vinmonopolet",
         "Score": 66.2,
-        "Rank": 5,
-        "Comment": "Jeg syns ikke det var så Pål Gordon. Den var ikke for de fineste anledningene, men når du likevel vil servere noe litt ekstra. "
+        "Rank": 5
     },
     {
         "Year": 2024,
         "Name": "Ringnes Julebokk",
         "Type": "Vinmonopolet",
         "Score": 75.2,
-        "Rank": 4,
-        "Comment": "Hvis vi holder på med dette om 10 år........da må vi hyre inn strippere."
+        "Rank": 4
     },
     {
         "Year": 2024,
         "Name": "Arendals Juleøl",
         "Type": "Butikk",
         "Score": 53.4,
-        "Rank": 9,
-        "Comment": "Jeg prøver å være positiv, men jeg syns det er vanskelig. \"Hvor kjøpte du denne? På TEMU!\""
+        "Rank": 9
     },
     {
         "Year": 2024,
         "Name": "Nøgne Ø Ekstra God Jul",
         "Type": "Vinmonopolet",
         "Score": 59,
-        "Rank": 7,
-        "Comment": "* Rett på med lysa! * En god juleøl trigger både smaksløkene og brekningsrefleksene."
+        "Rank": 7
     },
     {
         "Year": 2024,
         "Name": "Bygland Jolebassen Joleøl",
         "Type": "Butikk",
         "Score": 28.6,
-        "Rank": 15,
-        "Comment": "Denne er hvertfall ikke 15,5%. Den var god å styrte, og det skal jo ikke en god juleøl være. "
+        "Rank": 15
     },
     {
         "Year": 2024,
         "Name": "7 Fjell Gøy Jul (joker fra Øivind)",
         "Type": "Butikk",
         "Score": 79.4,
-        "Rank": 2,
-        "Comment": "Dette var jo godt! Lettdrikkelig, men samtidig jul. Det var jul, men ikke for tung jul. En lettvint jul. Trianas jul."
+        "Rank": 2
     },
     {
         "Year": 2024,
         "Name": "Tuborg Juleøl",
         "Type": "Butikk",
         "Score": 34,
-        "Rank": 13,
-        "Comment": "Den lukta jo litt artig."
+        "Rank": 13
     },
     {
         "Year": 2024,
         "Name": "Arendal 1839 Juleøl",
         "Type": "Vinmonopolet",
         "Score": 60.8,
-        "Rank": 6,
-        "Comment": "Det var drap på Rygene!"
+        "Rank": 6
     },
     {
         "Year": 2024,
         "Name": "Kinn Solsnu",
         "Type": "Vinmonopolet",
         "Score": 11.6,
-        "Rank": 19,
-        "Comment": "Det er jo bare pils! Aiai, det er oppløpssida nå. Dette er ikke juleøl."
+        "Rank": 19
     },
     {
         "Year": 2024,
         "Name": "Haandbryggeriet Nissemor",
         "Type": "Vinmonopolet",
         "Score": 45.6,
-        "Rank": 10,
-        "Comment": "Det er jo sånn silikon/botox-øl."
+        "Rank": 10
     },
     {
         "Year": 2024,
         "Name": "Kinn Julefred",
         "Type": "Butikk",
         "Score": 42,
-        "Rank": 11,
-        "Comment": "* Smeller glasset i bordet og \"50!\""
+        "Rank": 11
     }
 ]
