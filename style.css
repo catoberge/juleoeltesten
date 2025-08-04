@@ -60,9 +60,17 @@ main {
 }
 
 /* Chart & Table */
-canvas {
-    max-width: 100%;
-    height: auto;
+section canvas {
+  width: 100% !important;
+  height: auto !important;
+  max-width: 100%;
+  display: block;
+}
+
+section {
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto;
 }
 
 #table-container {
@@ -96,4 +104,5 @@ table td {
     .content {
         padding: 0 1rem;
     }
+
 }
